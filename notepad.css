@@ -1,0 +1,44 @@
+.main-container{
+    border: 2px solid;
+    height: 80vh;
+}
+
+
+.header-container{
+    display: flex;
+    height: 10%;
+    justify-content: space-between;
+    align-items: center;
+    background-color:lightgray;
+}
+
+#left-header{
+    margin-left: 8px;
+}
+
+#right-header{
+    margin-right: 10px;
+}
+
+.text-container{
+    height: 90%;
+    overflow: hidden;
+}
+
+#text-area{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.right-side-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#check{
+    margin-right: 20px;
+    height: 20px;
+    width: 20px;
+}
