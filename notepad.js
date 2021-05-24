@@ -1,4 +1,4 @@
-const checkbox=document.getElementById("check");
+const checkbox=document.getElementById("feature-flag");
 const textareaContent=document.getElementById("text-area");
 textareaContent.value=localStorage.getItem('autosave_data');
 
